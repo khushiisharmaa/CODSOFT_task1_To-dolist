@@ -25,6 +25,11 @@ Follow these steps to get the project up and running on your local machine.
    ```bash
    git clone https://github.com/khushiisharmaa/CODSOFT_task1_To-dolist.git
 
+2. Run the application:
+
+   python app.py
+
+
 ### Usage
 
 1. Enter a new task in the "New Task" field and click the "Add Task" button to add it to the task list.
